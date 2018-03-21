@@ -4,11 +4,23 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Document</title>
+  <link rel="stylesheet" href="css/main.css">
+  <title>Video with ES6</title>
 </head>
 <body>
   <section class="wrapper">
-     <iframe width="560" height="315"src="http;//www.youtube.com"
+    <!--video stuff will go here!-->
+     <video autoplay muted>
+
+    <!--add source here!-->
+      <!--mp4 ALWAYS on the top in ios devices!-->
+
+        <source src="video/mini_1.mp4" type="video/mp4">
+        <source src="video/mini_1.webm" type="video/webm">
+        <source src="video/mini_1.ogg" type="video/ogv">
+       your browser doesn't support video. Use one that doesn't suck.
+
+     </video>
   </section>
   <script src="js/main.js"></script>
 </body>

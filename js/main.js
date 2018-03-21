@@ -1,2 +1,7 @@
 
-(() ==>// JavaScript Document
+
+// JavaScript Document
+
+(() ==>
+console.log('video stuff');
+})();

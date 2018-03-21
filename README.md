@@ -1,5 +1,5 @@
 # HTML5 video with JS/ES6
 
-a simple video /Got house explainer with video and css animation
+a simple video app/Got house explainer with video and css animation
 
-using native video
+using native video and video events with ES6
