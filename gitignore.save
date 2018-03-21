@@ -1,1 +1,4 @@
-
+*.mp4
+*.webm
+*.ogg
+.DS_Store
